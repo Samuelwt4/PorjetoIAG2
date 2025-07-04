@@ -1,21 +1,37 @@
-Contador de Veículos com YOLO
-Este projeto implementa um sistema de detecção e contagem de veículos (carros, motos e caminhões) em vídeos utilizando o modelo YOLOv5. O sistema identifica veículos, rastreia seu movimento e conta quando eles cruzam uma linha virtual demarcada no vídeo.
+# 🚗 Contador de Veículos com YOLO
 
-Funcionalidades
-Detecta carros, motos e caminhões com YOLOv5.
+Este projeto implementa um sistema de **detecção e contagem de veículos** (carros, motos e caminhões) em vídeos, utilizando o modelo **YOLOv5**.  
+A contagem é feita no momento exato em que o veículo cruza uma linha virtual, evitando duplicações.
 
-Rastreia veículos para evitar contagem múltipla do mesmo objeto.
+---
 
-Contabiliza veículos no momento exato em que cruzam a linha de contagem.
+## ✨ Funcionalidades
 
-Exibe a contagem acumulada em tempo real no vídeo.
+- ✅ Detecta **carros**, **motos** e **caminhões** com YOLOv5.
+- 🔁 Rastreia os veículos para **evitar contagens repetidas**.
+- 📈 Faz a contagem quando o veículo **cruza uma linha de referência**.
+- 🖼️ Exibe os resultados **em tempo real no vídeo**, com contadores por tipo.
+- 👁️ Interface simples e funcional usando **OpenCV**.
 
-Interface simples com OpenCV para visualização dos resultados.
+---
 
-Tecnologias Utilizadas:
--Python 3.x
--Ultralytics YOLO (YOLOv5)
--OpenCV
--NumPy
+## 🛠️ Tecnologias Utilizadas
 
-por Samuel Watthier
+- 🐍 **Python 3.x**
+- 🤖 [**Ultralytics YOLOv5**](https://github.com/ultralytics/yolov5)
+- 🎥 **OpenCV**
+- 📊 **NumPy**
+
+---
+
+## 👨‍💻 Autor
+
+**Samuel Watthier Timmermann**  
+
+---
+
+## 📸 Exemplo (print da execução)
+![image](https://github.com/user-attachments/assets/df04cb0e-c6c8-49e0-8b5b-fa3a63891272)
+
+---
+
