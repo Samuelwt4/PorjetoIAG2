@@ -17,7 +17,7 @@ A contagem é feita no momento exato em que o veículo cruza uma linha virtual, 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- 🐍 **Python 3.x**
+- 🐍 **Python 3**
 - 🤖 [**Ultralytics YOLOv5**](https://github.com/ultralytics/yolov5)
 - 🎥 **OpenCV**
 - 📊 **NumPy**
