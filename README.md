@@ -30,7 +30,7 @@ A contagem é feita no momento exato em que o veículo cruza uma linha virtual, 
 
 ---
 
-## 📸 Exemplo (print da execução)
+## 📸 Exemplo
 ![image](https://github.com/user-attachments/assets/df04cb0e-c6c8-49e0-8b5b-fa3a63891272)
 
 ---
